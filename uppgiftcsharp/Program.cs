@@ -27,6 +27,8 @@ namespace uppgiftcsharp
 
             app.UseAuthorization();
 
+            Console.WriteLine("Hello");
+
 
             app.MapControllers();
 
