@@ -1,3 +1,7 @@
+using System;
+using NUnit;
+
+
 namespace UserManagerTests1
 {
     public class Tests

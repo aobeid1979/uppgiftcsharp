@@ -1,3 +1,7 @@
+using System;
+using Xunit;
+
+
 namespace UserManagerTests
 {
     public class UnitTest1
