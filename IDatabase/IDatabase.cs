@@ -4,14 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace test1
-{// IDatabase.cs
-
+namespace IDatabase
+{
     public interface IDatabase
     {
         void AddUser(User user);
         void RemoveUser(int userId);
         User GetUser(int userId);
     }
-
 }
